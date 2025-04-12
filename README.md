@@ -1,6 +1,6 @@
 # Enable_DisableMonMode.sh
 
-A simple Bash script to **quickly enable or disable monitor mode** on your wireless interface in the terminal.
+A quick and dirty Bash script to **quickly enable or disable monitor mode** on your wireless interface in the terminal.
 
 ## Features
 
