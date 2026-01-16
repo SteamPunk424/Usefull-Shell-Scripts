@@ -2,6 +2,7 @@ This is a script that changes your hardware address for local networks making yo
 Useful for network ban evasion.  
 # I am not responsible for any damages while using this script!  
 # For Research Purposes only!  
+# P.S. THIS DOESNT MAKE YOU INVISABLE. NETWORKS CAN STILL SEE A NEW DEVICE AUTHENITCATING!  
 
 ## Requirements
 
