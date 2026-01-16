@@ -1,3 +1,7 @@
+This is a script that changes your hardware address for local networks making you look like a new device.  
+Useful for network ban evasion.  
+# I am not responsible for any damages while using this script. For Research Purposes only!  
+
 ## Requirements
 
 This script requires the following to be installed and available in `$PATH`:
