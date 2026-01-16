@@ -19,8 +19,8 @@ sudo apt install macchanger net-tools
 ## Usage
 
 ```bash
-chmod +x identity_reset.sh
-./identity_reset.sh
+chmod +x Identity\ Wipe.sh
+./Identity\ Wipe.sh
 ```
 
 The custom script is used to set a specific mac address if you dont want to set a random one.
